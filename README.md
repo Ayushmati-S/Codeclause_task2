@@ -1,1 +1,2 @@
 # Codeclause_task2
+A music player in Python is a software application that allows users to play audio files, such as MP3s or WAVs. It provides features like play, pause, stop, volume control, and the ability to skip tracks. To build a music player in Python, you can use libraries like pygame, pydub, or tkinter for the user interface. The player typically loads audio files, decodes them, and plays them back using audio playback libraries or APIs.
